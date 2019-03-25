@@ -1,0 +1,3 @@
+[submodule "analogy"]
+	path = analogy
+	url = https://github.com/vletard/analogy-lua.git
